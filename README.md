@@ -1,2 +1,2 @@
 # BestHackaton2020
-Repository for BEST Hackaton INT20H.
+Here we store our PowerRangers team solutions for BEST INT20H Hackaton.
