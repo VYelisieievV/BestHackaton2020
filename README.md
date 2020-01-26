@@ -13,3 +13,7 @@ Kaggle Kernels:
 > https://www.kaggle.com/vladimirsydor/train-unet-mobilenet 
 >
 > https://www.kaggle.com/vladimirsydor/best-twohead-unet - haven't made it to final solution
+
+
+
+![Team photo](https://img.favpng.com/23/3/25/kowalski-skipper-penguin-madagascar-film-png-favpng-NYJGxeqRHytBEgDTET9hG50TW.jpg)
