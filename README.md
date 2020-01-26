@@ -1,2 +1,2 @@
 # BestHackaton2020
-Here we store our PowerRangers team solutions for BEST INT20H Hackaton.
+Here we store our Power Rangers team solutions for BEST INT20H Hackaton.
