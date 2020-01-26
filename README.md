@@ -16,4 +16,4 @@ Kaggle Kernels:
 
 
 
-![Team photo](https://img.favpng.com/23/3/25/kowalski-skipper-penguin-madagascar-film-png-favpng-NYJGxeqRHytBEgDTET9hG50TW.jpg)
+![Team photo](https://www.kindpng.com/picc/m/12-120901_4-penguins-from-madagascar-hd-png-download.png)
